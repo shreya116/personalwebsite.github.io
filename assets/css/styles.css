@@ -307,7 +307,10 @@ color: #0a1d36;
     filter: none;
 }
 
-
+.img-responsive{
+    width: 75%;
+    height: auto;
+  }
 
 
 .skills .svg-inline--fa {
